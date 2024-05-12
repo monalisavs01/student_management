@@ -1,4 +1,6 @@
 University Student Database
 
 
-This project designs and implements a relational database for a student database system to track student details..
+This project designs and implements a relational database for a student database system to track student details.
+The database schema consists of the following tables:
+STUDENT - Contains 
